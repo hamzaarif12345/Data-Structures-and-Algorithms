@@ -1,97 +1,91 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 /*
-You are given an integer n. We say that two integers x and y form a prime number pair if:
-
-1 <= x <= y <= n
-x + y == n
-x and y are prime numbers
-Return the 2D sorted list of prime number pairs [xi, yi]. The list should be sorted in increasing order of xi. If there are no prime number pairs at all, return an empty array.
-
-Note: A prime number is a natural number greater than 1 with only two factors, itself and 1.
-
- 
 
 Example 1:
 
-Input: n = 10
-Output: [[3,7],[5,5]]
-Explanation: In this example, there are two prime pairs that satisfy the criteria. 
-These pairs are [3,7] and [5,5], and we return them in the sorted order as described in the problem statement.
+Input: nums = [1,2,3,4], k = 5
+Output: 2
+Explanation: Starting with nums = [1,2,3,4]:
+- Remove numbers 1 and 4, then nums = [2,3]
+- Remove numbers 2 and 3, then nums = []
+There are no more pairs that sum up to 5, hence a total of 2 operations.
 Example 2:
 
-Input: n = 2
-Output: []
-Explanation: We can show that there is no prime number pair that gives a sum of 2, so we return an empty array. */
-#include<bits/stdc++.h>
-using namespace std;
-bool is_prime(int a){
-	for(int i=2;i<(a/2)+1;i++){
-		if(a%i==0) return true;
-	}return false;
-}
-vector<vector<int>> findPrimePairs(int n) {
-     vector<vector<int>> ans;
-     for (int i = 2; i < n; ++i)
-        {
-        	if(is_prime(i)==true && is_prime(n-i)==true){
-        		vector<vector<int>> ans1;
-        		ans1.push_back(i);
-        		ans1.push_back(n-i);
-        	}
-        	ans.push_back(ans1);
-        }  
-        return ans; 
+Input: nums = [3,1,3,4,3], k = 6   // [1 3 3 3 4]
+Output: 1
+Explanation: Starting with nums = [3,1,3,4,3]:
+- Remove the first two 3's, then nums = [1,4,3]
+There are no more pairs that sum up to 6, hence a total of 1 operation.
+*/
+int maxOperations(vector<int>& num, int k){
+    sort(num.begin(),num.end());
+    int c=0;
+    int i=0,j=num.size()-1;
+    while(i<j){
+        if(num[i]+ num[j]==k) {c++;i++;j--;}
+        else if(num[i]+num[j]<k) i++;
+        else j--;
     }
-int main(){
+    cout<<c;
+}
+int findPairs(vector<int>& nums, int k) {
+    sort(nums.begin(), nums.end());
+    int count = 0;
+    int i = 0, j = 1;  // Start with two pointers at different positions.
 
-	return 0;
+    while (i < nums.size() && j < nums.size()) {
+        if (i != j && nums[j] - nums[i] == k) {
+            count++;
+            i++;  // Move i to avoid duplicates.
+            j++;  // Move j to find more pairs.
+            // Skip all elements equal to nums[i] and nums[j].
+            while (i < nums.size() && nums[i] == nums[i - 1]) i++;
+            while (j < nums.size() && nums[j] == nums[j - 1]) j++;
+        } else if (nums[j] - nums[i] > k) {
+            i++;  // Try to decrease the difference.
+            if (i == j) j++;  // Ensure i and j are different.
+        } else {
+            j++;  // Try to increase the difference.
+        }
+    }
+    cout<<count;
+    return count;
+}
+string minRemoveToMakeValid(string s) {
+  stack<int> st;
+  for (auto i = 0; i < s.size(); ++i) {
+    if (s[i] == '(') st.push(i);
+    if (s[i] == ')') {
+      if (!st.empty()) st.pop();
+      else s[i] = '*';
+    }
+  }
+  while (!st.empty()) {
+    s[st.top()] = '*';
+    st.pop();
+  }
+  s.erase(remove(s.begin(), s.end(), '*'), s.end());
+  cout<<s;
+  return s;
 }
 
-
-
-
-
-
-
-
-
-class Solution {
-public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
-        stack<int> st;
-        
-        for (int asteroid : asteroids) {
-            int flag = 1;
-            while (!st.empty() && (st.top() > 0 && asteroid < 0)) {
-                // If the top asteroid in the stack is smaller, then it will explode.
-                // Hence pop it from the stack, also continue with the next asteroid in the stack.
-                if (abs(st.top()) < abs(asteroid)) {
-                    st.pop();
-                    continue;
-                }
-                // If both asteroids are the same size, then both asteroids will explode.
-                // Pop the asteroid from the stack; also, we won't push the current asteroid to the stack.
-                else if (abs(st.top()) == abs(asteroid)) {
-                    st.pop();
-                }
-
-                // If we reach here, the current asteroid will be destroyed
-                // Hence, we should not add it to the stack
-                flag = 0;
-                break;
-            }
-            
-            if (flag) {
-                st.push(asteroid);
-            }
-        }
-        
-        // Add the asteroids from the stack to the vector in the reverse order.
-        vector<int> remainingAsteroids (st.size());
-        for (int i = remainingAsteroids.size() - 1; i >= 0; i--){
-            remainingAsteroids[i] = st.top();
-            st.pop();
-        }
-        
-        return remainingAsteroids;
+int mioperations(vector<int> nums,int x){
+    int l=0;
+    int r=nums.size()-1;
+    if(nums[l] <= nums[r]<= x){
+        x=-nums[r];
     }
-};
+    else if(nums[r] <nums[l]<= x){
+        x=-nums[l];
+    }
+
+}
+
+int main()
+{
+    string s = "lee(t(c)o)de)";
+    minRemoveToMakeValid(s);
+    return 0;
+}
