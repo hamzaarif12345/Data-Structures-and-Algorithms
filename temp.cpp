@@ -82,10 +82,44 @@ int mioperations(vector<int> nums,int x){
     }
 
 }
+string decode(string s) {
+    string ans = "";
+    int l = s.size() - 1;
+    stack<char> t;
+    int num = 0;
+    
+    for (int i = 0; i <= l; i++) {
+        if (isdigit(s[i])) {
+            num = num * 10 + (s[i] - '0');
+        } 
+        else if (s[i] == '[') {
+            t.push(s[i]);
+        } 
+        else if (isalpha(s[i])) {
+            t.push(s[i]);
+        } 
+        else if (s[i] == ']') {
+            string k = "";
+            while (t.top() != '[') {
+                k += t.top();
+                t.pop();
+            }
+            t.pop();
+            reverse(k.begin(),k.end());
+            for (int j = 0; j < num; j++) {
+                ans += k;
+            }
+            num = 0;
+        }
+    }
+    cout<<ans;
+    return ans;
+}
+
 
 int main()
 {
-    string s = "lee(t(c)o)de)";
-    minRemoveToMakeValid(s);
+    string s = "3[a2[c]]";
+    decode(s);
     return 0;
 }
