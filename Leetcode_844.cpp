@@ -19,8 +19,6 @@ public:
                 if(!a1.empty())a1.pop();
             }
         }
-        //vector<char> v1(a.begin(),a.end());
-        //vector<char> v2(a1.begin(),a1.end());
         return (a==a1);
     }
 };
