@@ -20,68 +20,43 @@ Q 238
 */
 
 
-#include<bits/stdc++.h>
-using namespace std;
-void sol(vector<int> &array){
-	vector<int> ans;
-	for (int i=0;i<array.size();i++){
-		int prod=1;
-		for(int j=0;j<array.size();j++){
-			if(j==i)
-				continue;
-			else
-				prod*=array[j];
-		}
-		ans.push_back(prod);
-	}
-	//cout<<ans.size();
-	for(int i=0;i<ans.size();i++)
-		cout<<ans[i]<<" ";
-
-}
-int count(vector<int> &array){
-	int count=1;
-	for(int i=0;i<array.size();i++){
-		if(array[i]==0)
-			count++;
-	}
-	return count;
-
-}
-void sol2(vector<int> &array){
-	vector<int> ans;
-	if(array.size()==0) return ;
-	if(count(array)>=2){
-		for (int i = 0; i < array.size(); ++i)
-		{
-			ans.push_back(0);
-		}
-	} return;
-	int prod =1;
-	for(int i=0;i<array.size();i++){  //O(n)
-		prod*=prod;
-	}
-	for (int i = 0; i < array.size(); ++i)
-	{	
-		if(count(array)==1){
-			if(array[i]==0){
-				ans.push_back(prod);
-				return;
-			}
-			else{
-				ans.push_back(0);
-				return;
-			}
-		}
-		int k=prod/array[i];
-		ans.push_back(k);
-	}
-	for(int i=0;i<ans.size();i++)
-		cout<<ans[i]<<" ";
-
-}
-int main(){
-	vector<int> arr={1,3,4,5,0};
-	sol(arr);
-	return 0;
-}
+class Solution {
+public:
+    int count(vector<int> &array){
+        int c=0;
+        for(int i=0;i<array.size();i++){
+            if(array[i]==0) c++;
+        }   return c;}
+        
+    vector<int> productExceptSelf(vector<int>& array) {
+        vector<int> ans;
+        int count=0;
+        int prod=1;
+        if(array.size()==0) return ans;
+        for(int i=0;i<array.size();i++){
+            if(array[i]==0)
+                count++;
+            else prod*=array[i];
+        }
+        if(count ==0){
+            for(int i=0;i<array.size();i++){
+                int k=prod/array[i];
+                ans.push_back(k);
+            }
+        }
+        if(count ==1){
+            for(int i=0;i<array.size();i++){
+                if(array[i]==0)
+                    ans.push_back(prod);
+                else ans.push_back(0);
+            }
+        }
+        if(count>=2){
+            for(int i=0;i<array.size();i++){
+                ans.push_back(0);
+            }
+        }
+        return ans;
+        
+    }
+};
