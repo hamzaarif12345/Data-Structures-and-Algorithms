@@ -20,9 +20,22 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Array
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
