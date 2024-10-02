@@ -8,6 +8,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -22,6 +23,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
@@ -51,4 +53,8 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
