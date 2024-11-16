@@ -34,6 +34,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Trie
 |  |
 | ------- |
@@ -97,4 +98,8 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
