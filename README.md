@@ -122,4 +122,20 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
