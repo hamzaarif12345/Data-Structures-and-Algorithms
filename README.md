@@ -20,6 +20,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2580-circular-sentence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -35,6 +36,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -143,4 +145,5 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
