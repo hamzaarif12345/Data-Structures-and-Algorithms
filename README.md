@@ -25,6 +25,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1524-string-matching-in-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
@@ -144,6 +145,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Sliding Window
 |  |
 | ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
