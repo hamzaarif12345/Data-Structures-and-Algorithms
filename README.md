@@ -161,23 +161,27 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
