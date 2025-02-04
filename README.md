@@ -51,6 +51,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1524-string-matching-in-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
