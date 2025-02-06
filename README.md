@@ -6,6 +6,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
@@ -18,6 +19,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0812-rotate-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
@@ -153,6 +155,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
