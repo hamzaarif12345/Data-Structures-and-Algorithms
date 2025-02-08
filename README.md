@@ -12,6 +12,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
+| [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -84,6 +85,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0432-all-oone-data-structure](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -124,6 +126,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
+| [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -234,4 +237,8 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
