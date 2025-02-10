@@ -36,6 +36,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2580-circular-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2580-circular-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3451-string-compression-iii) |
 ## Counting
 |  |
@@ -100,6 +101,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
