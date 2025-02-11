@@ -31,6 +31,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2580-circular-sentence) |
@@ -101,6 +102,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
@@ -146,6 +148,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
