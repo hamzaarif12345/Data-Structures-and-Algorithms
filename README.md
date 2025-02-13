@@ -69,6 +69,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -137,6 +138,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -155,6 +157,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
