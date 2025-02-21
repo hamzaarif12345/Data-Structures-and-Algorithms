@@ -11,6 +11,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1464-reduce-array-size-to-the-half) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -90,6 +91,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2434-design-a-number-container-system) |
@@ -187,12 +189,14 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -200,6 +204,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -207,6 +212,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [0199-binary-tree-right-side-view](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
