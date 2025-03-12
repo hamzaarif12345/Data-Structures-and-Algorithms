@@ -46,6 +46,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -274,4 +276,8 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1477-product-of-the-last-k-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
