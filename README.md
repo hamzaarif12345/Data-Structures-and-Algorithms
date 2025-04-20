@@ -24,6 +24,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0006-zigzag-conversion) |
 | [0812-rotate-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0952-word-subsets) |
