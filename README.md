@@ -64,6 +64,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2048-build-array-from-permutation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -170,6 +171,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
