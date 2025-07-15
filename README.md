@@ -42,6 +42,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2580-circular-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2580-circular-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3396-valid-word](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3451-string-compression-iii) |
 ## Counting
