@@ -163,6 +163,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [0670-maximum-swap](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -173,6 +174,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/0326-power-of-three) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
