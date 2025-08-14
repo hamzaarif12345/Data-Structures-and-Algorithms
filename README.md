@@ -39,6 +39,7 @@ In this repository various questions of Data Structures and Algorithms has been 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2580-circular-sentence](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/2580-circular-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/hamzaarif12345/Data-Structures-and-Algorithms/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
